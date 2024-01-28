@@ -71,7 +71,7 @@
 
 <p align="center">
   
-<a href="[https://www.instagram.com/i__disbalance/](https://www.instagram.com/mr.faroo00/)"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__Mrfaroo00-black?style=flat-square&logo=instagram"></a>
+<a href="[https://www.instagram.com/i__disbalance/](https://www.instagram.com/mr.faroo00/)"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Mrfaroo00-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:farooqtariq400@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farooqtariq400@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
@@ -80,8 +80,6 @@
 
 
 
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=MuhammadFarooq00)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
