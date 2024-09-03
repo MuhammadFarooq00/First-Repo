@@ -8,9 +8,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; I’m currently learning Full Stack Development.
+- 🎓 &nbsp; I’m a Full Stack Developer.
 
-- 🌱 &nbsp; I love programming. And want to become a Softwate Engineer.
+- 🌱 &nbsp; I love programming.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Html | Css | Javascript | Bootstrap | Tailswind | React
+- 💻 &nbsp; Html | Css | Javascript | Bootstrap | Tailswind | React |Next.js | SQL | MongoDB | Express.js | Node.js 
 
 
 <!--
@@ -37,7 +37,7 @@
 
 <h3>🛠 Next to Learn : </h3>
 
-- 🔧 &nbsp;  Backend Technologies
+- 🔧 &nbsp;  Generative AI Technology
 
 <hr>
 
